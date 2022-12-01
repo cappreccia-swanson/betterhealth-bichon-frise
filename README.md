@@ -1,4 +1,4 @@
-# Better Health Bichon
+# Better Health Bichon Frise
 
 ![A robot dog](https://user-images.githubusercontent.com/103009026/202947789-e6a778e3-2507-4d96-a63f-072eac72b378.jpg)
 
